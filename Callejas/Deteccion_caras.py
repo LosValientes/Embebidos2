@@ -4,7 +4,7 @@ import numpy as np
 Imagen = cv2.imread("./image/LosV.jpg")
 (cx,cy,cz)=Imagen.shape
 
-Carlos = cv2.imread("./image/Carlos.jpg")
+Carlos = cv2.imread()
 Copito = cv2.imread("./image/Copito.jpg")
 Marcelo = cv2.imread("./image/Marcelo.jpg")
 Mario = cv2.imread("./image/Mario.jpg")
